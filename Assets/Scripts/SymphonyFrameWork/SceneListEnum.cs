@@ -1,6 +1,8 @@
 ﻿public enum SceneListEnum : int
 {
     None = 0,
-    MusicSyncMock = 1,
-    MusicBattle_Mock_Master = 2,
+    Persistent = 1,
+    OutGame = 2,
+    InGame = 3,
+    Stage_01 = 4,
 }
